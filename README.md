@@ -27,3 +27,8 @@ Things you may want to cover:
 https://post-output.com/185/
 【Rails】複数タグ付け機能の実装
 
+destroyで
+ArticleとArticleTagテーブルの中身は削除できている。
+ragテーブルの内容までは削除できていない。
+
+
