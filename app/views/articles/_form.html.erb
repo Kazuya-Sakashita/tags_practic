@@ -20,7 +20,10 @@
     <%= form.label :content %>
     <%= form.text_area :content %>
   </div>
-
+  <div class="field">
+    <%= form.label :tag_names %>
+    <%= form.text_field :tag_names, placeholder:",で区切ってください" %>
+  </div>
   <div class="actions">
     <%= form.submit %>
   </div>

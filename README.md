@@ -22,3 +22,8 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+参考HP
+https://post-output.com/185/
+【Rails】複数タグ付け機能の実装
+
